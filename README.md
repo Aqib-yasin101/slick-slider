@@ -4,6 +4,7 @@ The slider displays a series of Bootstrap cards, each containing an image, title
 
 
 **Technologies Used**
+
 HTML5
 
 CSS3
